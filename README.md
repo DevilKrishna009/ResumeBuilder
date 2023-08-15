@@ -1,2 +1,2 @@
 # ResumeBuilder
-Generate your Resume with this **free** software
+Generate your Resume with this **free** website.
